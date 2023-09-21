@@ -52,5 +52,18 @@
             "phone": "6380080007",
             "email": ""
         }
+    },
+    "full": {
+        "name": "GDSC Full Stack Club",
+        "faculty": {
+            "name": "Dr Thamba Meshach",
+            "phone": "",
+            "email": ""
+        },
+        "student": {
+            "name": "M Charan",
+            "phone": "6380080007",
+            "email": ""
+        }
     }
 }
