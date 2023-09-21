@@ -1,0 +1,56 @@
+{
+    "robotics": {
+        "name": "Robotics Club",
+        "catchline": "Where innovation meets inspiration.",
+        "desc": "The Robotics Club is a place where students can come together to design, build, and program robots to solve real-world problems. We encourage students of all skill levels to participate, and we provide the resources and support they need to succeed.",
+        "faculty": {
+            "name": "Ms R Kannamma",
+            "phone": "1234567890",
+            "email": "kannama.cse@prathyusha.edu.in"
+        },
+        "student": {
+            "name": "K S Anupam Krishna",
+            "phone": "6369900860",
+            "email": "anupamkris13262@gmail.com"
+        }
+    },
+    "ev": {
+        "name": "Green Energy and EV Club",
+        "faculty": {
+            "name": "Dr N Sujitha",
+            "phone": "",
+            "email": ""
+        },
+        "student": {
+            "name": "C Divaharan",
+            "phone": "6380080007",
+            "email": ""
+        }
+    },
+    "app": {
+        "name": "GDSC App Development Club",
+        "faculty": {
+            "name": "Ms E Shimona",
+            "phone": "",
+            "email": ""
+        },
+        "student": {
+            "name": "A Gunadeep",
+            "phone": "6380080007",
+            "email": ""
+        }
+    },
+    "ai": {
+        "name": "GDSC AI & ML Club",
+        "faculty": {
+            "name": "Ms B Gunasundari",
+            "phone": "",
+            "email": ""
+        },
+        "student": {
+            "name": "Monish Kumar",
+            "phone": "6380080007",
+            "email": ""
+        }
+    }
+}
